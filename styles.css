@@ -2,8 +2,23 @@ a{
 	color: red;
 	text-decoration: none;
 }
-
 a:hover {
 	color: blue;
 	text-decoration: underline;
+}
+.yeet{
+	height: 200px;
+}
+figure{
+	margin-left: 100px;
+	align-items: center;
+}
+h2{
+	margin-left: 450px
+}
+li{
+	margin-left: 250px
+}
+img{
+	padding: 10px
 }
