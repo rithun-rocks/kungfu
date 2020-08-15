@@ -1,3 +1,11 @@
+body{
+	margin:0;
+	font-size: 24px;
+}
+header{
+	background-color: orange;
+	text-align: center;
+}
 a{
 	color: red;
 	text-decoration: none;
@@ -6,24 +14,41 @@ a:hover {
 	color: blue;
 	text-decoration: underline;
 }
-.bloom{
-	margin-left: 150px
+header h1{
+	font-family: 'Luckiest Guy';
+	font-size: 82px;
+	letter-spacing: 3px;
 }
 h2{
-	margin-left: 200px
+	margin-left: 50px;
+	font-family: 'Lobster', cursive;
+	font-size: 42px;
+	color: orange;
 }
-.yeet{
-	height: 200px;
-	padding-left: 5px;
-	padding-right: 5px;
+.hmmmm{
+	margin: 0 100px;
+}
+.size{
+	margin: 0px;
+	height: 100px;
 }
 li{
-	margin-left: 150px
+	font-family: 'Luckiest Guy';
+	font-size: 20px
 }
-figure{
-	margin-left: 100px
+footer{
+	margin-top: 30px;
+	font-size: 16px
 }
-img{
-	min-height: 50%; min-width: 50%;
-	max-height: 60%; max-width: 60%;
+p{
+	font-family: 'Comfortaa', cursive;
+	letter-spacing: -1.5px
+}
+.yeet{
+	padding-left: 5px;
+	height: 200px;
+	min-height: 50%;
+	min-width: 50%;
+	max-height: 100%;
+	max-width: 100%
 }
